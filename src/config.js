@@ -2,8 +2,8 @@ function config() {
     var ini = [
         {   // 1.
             name: 'default',
-            img_width: 10956,
-            img_height: 10691,
+            img_width: 10966,
+            img_height: 10718,
             img_depth: 68 * 3.8462 * 0.9,
             particle_size: 8000.0,
             // zThres: 1500.0,
